@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://home1.rasoulmousavi.ir/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/Rasoul-Mousavi-LAW-com/home/main/a2db28fa-1d1b-4ff1-816b-0d1dc62747af.png</image:loc>
+      <image:title>رسول موسوی خادم؛ وکیل متخصص رمزارز و ارز دیجیتال در تهران</image:title>
+      <image:caption>رسول موسوی خادم، وکیل پایه یک دادگستری و متخصص دعاوی رمزارز</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/Rasoul-Mousavi-LAW-com/home/refs/heads/main/1769827874198.jpg</image:loc>
+      <image:title>رسول موسوی خادم — وکیل پایه یک دادگستری در تهران</image:title>
+    </image:image>
+  </url>
+
+</urlset>
